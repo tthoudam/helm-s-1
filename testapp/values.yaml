@@ -1,0 +1,6 @@
+# Default values for testapp.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+global:
+  environment: production
